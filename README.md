@@ -1,2 +1,2 @@
-# codeigniter
-My humble contributions to an amazing framework.
+# Codeigniter
+My contributions to an amazing PHP framework.
