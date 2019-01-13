@@ -8,7 +8,7 @@ A repository for my contributions to an amazing PHP framework.
 I can't agree less. The CodeIgniter framework can be found at https://www.codeigniter.com/
 
 ## My Libraries
-**Important! All libraries are designed to work with PHP7+ only**
+**Important! All libraries are designed to work with PHP7+ only.**
 - CouchDB - Allows you to flexibly utilize the NoSQL document-based database developed by Apache.
 - SuperText - Allows you to neatly integrate a bulk SMS platform for sending SMS in Nigeria.
 
