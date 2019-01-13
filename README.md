@@ -14,6 +14,7 @@ I can't agree less. The CodeIgniter framework can be found at https://www.codeig
 
 ## Upcoming Libraries
 - OAuth4 (name is subject to change) - Allows you to gracefully communicate with a new authentication and authorization protocol I have been working on. The protocol itself will be published soon.
+- OAuth2
 - MongoDB
 - Cassandra
 - CouchBase
